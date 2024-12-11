@@ -18,7 +18,7 @@ python3 -m venv .venv
 setup
 ```
 
-# Ejecución de pruebas
+# Ejecución de pruebaspython3 -m venv .venv
 
 Ejecute el siguiente comando en el terminal:
 
